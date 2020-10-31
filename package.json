@@ -1,0 +1,19 @@
+{
+  "name": "vue-use",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/baojie223/vue-use.git",
+  "author": "baojie <baojiedashuaibi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "prettier": "^2.1.2",
+    "vite": "^1.0.0-rc.8"
+  }
+}
